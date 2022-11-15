@@ -9,8 +9,8 @@ Test project for checking plugins capabilities:<br>
 
 
  <p align="center">
-  <img src="src_readme/viber_2022-11-14_20-12-39-218.png" width="350" title="Скріншот сплеш екрана">
-  <img src="src_readme/viber_2022-11-14_20-12-39-218.png" width="350" alt="accessibility text">
+  <img src="srs_readme/viber_2022-11-14_20-12-39-218.png" width="350" title="Скріншот сплеш екрана">
+  <img src="srs_readme/viber_2022-11-14_20-12-39-218.png" width="350" alt="accessibility text">
 </p>
 
  
